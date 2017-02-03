@@ -93,3 +93,6 @@ ENV/
 *.csv
 *.zip
 *.tar
+
+# HTML
+*.html
